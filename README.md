@@ -4,4 +4,4 @@ Benvolguts al meu repositori de python
 
 ## Els meus programes
 
-  -[Hello World](hello world.py)
+  -[Hello World](hello_world.py)
