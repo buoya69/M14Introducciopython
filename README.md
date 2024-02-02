@@ -6,4 +6,4 @@ Benvolguts al meu repositori de python
 
   -[Hello World](hello_world.py)
   
-##Bateria 1
+## Bateria 1
