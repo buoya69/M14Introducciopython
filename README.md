@@ -10,3 +10,5 @@ Benvolguts al meu repositori de python
   -[Problema1](problema1.py)
   
   -[Problema2](problema2.py)
+
+  -[Problema3](problema3.py)
