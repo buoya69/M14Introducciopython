@@ -7,6 +7,6 @@ Benvolguts al meu repositori de python
   -[Hello World](hello_world.py)
   
 ## Bateria 1
-  -[Bateria 1](problema1.py)
+  -[Problema1](problema1.py)
   
-  -[Bateria 1](problema2.py)
+  -[Problema2](problema2.py)
