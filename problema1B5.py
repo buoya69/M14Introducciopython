@@ -1,8 +1,12 @@
 llista = []
 while True:
     num = input("Introdueix un numero ")
-    llista.append(num)
     if num == "final":
-        llista.pop(-1)
         break
-print(llista)
+    else:
+        llista.append(int(num))
+        resultat = 0
+        print(llista)
+for i in llista:
+    resultat = resultat + i
+print("El resultat es ", resultat)
