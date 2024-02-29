@@ -26,3 +26,5 @@ Benvolguts al meu repositori de python
   -[Problema3](Problema3.py)
 
   -[Problema4](Problema4.py)
+
+  -[Problema5](problema5.py)
