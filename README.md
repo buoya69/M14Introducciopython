@@ -28,3 +28,7 @@ Benvolguts al meu repositori de python
   -[Problema4](Problema4.py)
 
   -[Problema5](problema5.py)
+
+
+## Bateria 3
+  -[Problema1](
