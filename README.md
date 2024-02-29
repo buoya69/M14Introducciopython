@@ -19,4 +19,4 @@ Benvolguts al meu repositori de python
 
 ## Bateria 2
 
-  -[Problema1
+  -[Problema1](Problema1.py)
