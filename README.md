@@ -20,3 +20,4 @@ Benvolguts al meu repositori de python
 ## Bateria 2
 
   -[Problema1](Problema1.py)
+  -[Problema2](Problema2.py)
